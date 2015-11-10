@@ -1,0 +1,113 @@
+body{
+	background-color: white;
+}
+
+h1 {
+	color: red;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 75px;
+	text-align: center;
+	padding-top: 40px;
+
+}
+
+.nav {
+	color: black;
+	font-variant: small-caps;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 20px;
+
+}
+
+span {
+	padding-right: 25px;
+}
+
+.ad-wrap {
+	background-color: cyan;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 100px;
+}
+
+.story {
+	padding-bottom: 10px;
+	text-align: center;
+	border-bottom-style: dashed;
+	border-width: 3px;
+}
+
+.kicker {
+	padding-top: 25px;
+	border-top-style: dashed;
+	border-width: 3px;
+	text-align: center;
+	font-size: 75px;
+}
+
+.summary {
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;
+	padding-bottom: 10px;
+
+}
+
+.main-sidebar {
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 20px;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+}
+
+h3 {
+	padding-top: 10px;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
+
+.container {
+	background-color: red;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.footer {
+	background-color: red;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	color: white;
+	text-align: center;
+}
+
+h5 {
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.refers {
+	background-color: red;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
